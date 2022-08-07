@@ -1,0 +1,21 @@
+body
+{
+    background-image: url("dice.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#demo
+{
+    position: absolute;
+    right: 400px;
+    top: 200px;
+    font-size: 150px;
+}
+button
+{
+    position: absolute;
+    right: 420px;
+    top: 400px;
+    font-size: 40px;
+}
